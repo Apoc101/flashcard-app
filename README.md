@@ -1,4 +1,4 @@
-# Flashcard appt
+# Flashcard app
 
 Available at https://apoc101.github.io/flashcard-app.
 
