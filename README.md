@@ -1,6 +1,6 @@
-# Flashcard App made in React
+# Flashcard appt
 
-Accessible at https://apoc101.github.io/flashcard-app.
+Available at https://apoc101.github.io/flashcard-app.
 
 This was made to exercise trivia and general knowledge, as well as to test my capabilities with React and APIs.
 
